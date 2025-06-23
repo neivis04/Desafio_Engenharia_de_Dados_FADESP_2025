@@ -15,9 +15,10 @@ Estabelecer relações entre a qualidade institucional e a produção científic
 
 ---
 
-## 🧭 Etapas
+## Etapas
 
-### **Extração e Engenharia de Dados**
+### **1. Extração e Engenharia de Dados**
+---
 
 ### Tarefas:
 
@@ -38,7 +39,8 @@ Estabelecer relações entre a qualidade institucional e a produção científic
 - Banco de dados relacional bem estruturado pronto para análise.
 - Dados limpos e padronizados.
 
-### **Visualizações e Comunicação**
+### **2. Visualizações e Comunicação**
+---
 
 ### Tarefas:
 
@@ -53,8 +55,8 @@ Estabelecer relações entre a qualidade institucional e a produção científic
 - Visualizações claras e impactantes.
 - Caderno final de análise pronto.
 
-
-## **Resultados Esperados e Entregáveis**
+### **3. Resultados Esperados e Entregáveis**
+---
 
 - ✔ Banco de dados MySQL com os dados tratados
 - ✔ Scripts de ETL e notebooks organizados
@@ -62,9 +64,23 @@ Estabelecer relações entre a qualidade institucional e a produção científic
 - ✔ `README.md` com instruções de uso
 - ✔ Apresentação curta com metodologia, desafios e descobertas
 
-## **Importância do Processo**
+### **4. Principais Desafios**
+---
 
-Esse fluxo representa um **pipeline completo de dados**:
+- Alto volume de dados com estrutura inconsistente.
+- Necessidade de normalização de instituições (nomes diferentes para a mesma IES).
+- Conversão e padronização de valores monetários.
 
-- Do **dado cru** à **informação estruturada**.
-- Da **análise descritiva** à **decisão baseada em evidência**.
+### **5. Descobertas Relevantes**
+---
+
+- Algumas áreas concentram grande parte das bolsas (ex: Ciências Humanas e Exatas).
+- Instituições federais concentram o maior valor investido.
+- Relação entre localização (região e UF) e investimento recebido.
+
+### **6. Recomendações Baseadas nos Dados**
+---
+
+- Reforçar apoio a instituições com menor captação de bolsas, promovendo equidade.
+- Incentivar áreas estratégicas ainda com baixa cobertura de bolsas.
+

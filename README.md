@@ -1,24 +1,21 @@
 # **Plano de Ação para o Desafio Técnico – FADESP 2025**
 
-### 🎯 Objetivo Geral
+## 🎯 Objetivo Geral
 
 Estabelecer relações entre a qualidade institucional e a produção científica brasileira, com base nos dados do Censo da Educação Superior (INEP) e do CNPq (bolsistas), por meio de análise exploratória, modelagem preditiva e visualização de dados, utilizando Python, Jupyter e MySQL.
 
----
 
-### 🔧 Tecnologias e Ferramentas
+## 🔧 Tecnologias e Ferramentas
 
 - **Python**: manipulação e análise de dados (pandas, numpy, scipy, statsmodels)
 - **Jupyter Notebook**: organização do processo analítico com documentação
 - **MySQL**: criação de banco relacional para armazenamento e consultas SQL
 - **Plotly / Seaborn**: visualizações interativas e informativas
 
----
 
 ## Etapas
 
-### **1. Extração e Engenharia de Dados**
----
+## **1. Extração e Engenharia de Dados**
 
 ### Tarefas:
 
@@ -39,8 +36,7 @@ Estabelecer relações entre a qualidade institucional e a produção científic
 - Banco de dados relacional bem estruturado pronto para análise.
 - Dados limpos e padronizados.
 
-### **2. Visualizações e Comunicação**
----
+## **2. Visualizações e Comunicação**
 
 ### Tarefas:
 
@@ -55,8 +51,7 @@ Estabelecer relações entre a qualidade institucional e a produção científic
 - Visualizações claras e impactantes.
 - Caderno final de análise pronto.
 
-### **3. Resultados Esperados e Entregáveis**
----
+## **3. Resultados Esperados e Entregáveis**
 
 - ✔ Banco de dados MySQL com os dados tratados
 - ✔ Scripts de ETL e notebooks organizados
@@ -64,22 +59,19 @@ Estabelecer relações entre a qualidade institucional e a produção científic
 - ✔ `README.md` com instruções de uso
 - ✔ Apresentação curta com metodologia, desafios e descobertas
 
-### **4. Principais Desafios**
----
+## **4. Principais Desafios**
 
 - Alto volume de dados com estrutura inconsistente.
 - Necessidade de normalização de instituições (nomes diferentes para a mesma IES).
 - Conversão e padronização de valores monetários.
 
-### **5. Descobertas Relevantes**
----
+## **5. Descobertas Relevantes**
 
 - Algumas áreas concentram grande parte das bolsas (ex: Ciências Humanas e Exatas).
 - Instituições federais concentram o maior valor investido.
 - Relação entre localização (região e UF) e investimento recebido.
 
-### **6. Recomendações Baseadas nos Dados**
----
+## **6. Recomendações Baseadas nos Dados**
 
 - Reforçar apoio a instituições com menor captação de bolsas, promovendo equidade.
 - Incentivar áreas estratégicas ainda com baixa cobertura de bolsas.

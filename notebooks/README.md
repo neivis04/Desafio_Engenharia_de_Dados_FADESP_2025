@@ -9,6 +9,8 @@ A primeira análise mostra as **10 instituições com o maior número de bolsist
 
 **Insight:** A predominância de instituições públicas, especialmente universidades federais e estaduais, reforça seu papel central na pesquisa científica brasileira.
 
+<img src="./image/image1.png" width="800px">
+
 
 ### **Instituições com Maior Valor Investido em Bolsas**
 ---
@@ -21,6 +23,8 @@ A segunda visualização demonstra as **10 instituições que receberam maior vo
 
 **Insight:** Existe uma diferença relevante entre quantidade de bolsistas e volume de recursos, indicando que algumas instituições possuem bolsas de maior valor médio, possivelmente associadas a pesquisas de maior complexidade ou projetos mais robustos.
 
+<img src="./image/image2.png" width="800px">
+
 ### **Distribuição de Bolsas por Área do Conhecimento**
 ---
 A terceira análise aborda a distribuição percentual de bolsas por grandes áreas do conhecimento:
@@ -32,3 +36,5 @@ A terceira análise aborda a distribuição percentual de bolsas por grandes ár
 - A categoria **"Outras" (11,9%)** inclui áreas multidisciplinares e interdisciplinares que não se encaixam diretamente nas demais categorias.
 
 **Insight:** Há uma clara priorização de áreas consideradas estratégicas para o desenvolvimento científico e tecnológico, como Exatas, Biológicas, Saúde e Engenharias, refletindo as demandas sociais, econômicas e ambientais do país.
+
+<img src="./image/image3.png" width="600px">

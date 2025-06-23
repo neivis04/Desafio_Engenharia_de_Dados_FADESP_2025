@@ -1,5 +1,3 @@
-# Desafio_Engenharia_de_Dados_FADESP_2025
-
 # **Plano de Ação para o Desafio Técnico – FADESP 2025**
 
 ### 🎯 Objetivo Geral
